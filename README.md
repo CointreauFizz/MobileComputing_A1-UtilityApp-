@@ -1,3 +1,6 @@
+# Mobile Computing Assignment 1
+For assignment 1, we need to choose a utility application for android development. In this project, I have chosen to re-design a translator application for Android.
+
 # TranslateApp
 Translate is an android app to translate text conversations, supporting 90 languages with built in Speech-To-Text and Text-to-Speech features for ease of accessibility.
 
