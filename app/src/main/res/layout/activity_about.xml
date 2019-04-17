@@ -23,13 +23,14 @@
         android:layout_centerVertical="true"
         android:layout_alignRight="@+id/about_yandex"
         android:layout_alignEnd="@+id/about_yandex" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Designed By:CKML"
-        android:textSize="20sp"
-        android:textColor="@android:color/black"
         android:layout_above="@id/about_yandex"
-        android:layout_centerHorizontal="true"/>
+        android:layout_centerHorizontal="true"
+        android:text="Designed By: CKML"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
 
 </RelativeLayout>
